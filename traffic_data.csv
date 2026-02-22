@@ -1,0 +1,16 @@
+vehicle_count,avg_speed,time_of_day,weather,congestion
+120,45,9,0,Moderate
+300,20,18,0,Heavy
+80,55,11,0,Smooth
+200,30,17,1,Heavy
+60,60,6,0,Smooth
+150,40,14,1,Moderate
+280,25,19,0,Heavy
+90,50,10,0,Smooth
+170,35,16,1,Moderate
+320,15,20,0,Heavy
+140,42,8,0,Moderate
+75,58,7,0,Smooth
+260,22,18,1,Heavy
+110,48,12,0,Smooth
+190,33,17,1,Moderate
